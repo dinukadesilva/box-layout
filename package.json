@@ -1,0 +1,25 @@
+{
+  "name": "box-layout",
+  "version": "1.0.0",
+  "description": "This is a simple CSS library with just few CSS classes that are really useful for UI engineers",
+  "main": "box-layout.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinukadesilva/box-layout.git"
+  },
+  "keywords": [
+    "layout",
+    "front-end",
+    "UI",
+    "CSS"
+  ],
+  "author": "Dinuka De Silva <l.dinukadesilva@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dinukadesilva/box-layout/issues"
+  },
+  "homepage": "https://github.com/dinukadesilva/box-layout#readme"
+}
