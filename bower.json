@@ -1,0 +1,23 @@
+{
+  "name": "box-layout",
+  "description": "This is a simple CSS library with just few CSS classes that are really useful for UI engineers",
+  "main": "box-layout.css",
+  "authors": [
+    "Dinuka De Silva <l.dinukadesilva@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "layout",
+    "front-end",
+    "UI",
+    "CSS"
+  ],
+  "homepage": "https://github.com/dinukadesilva/box-layout",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
