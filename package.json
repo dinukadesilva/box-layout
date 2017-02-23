@@ -1,6 +1,6 @@
 {
   "name": "box-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple CSS library with just few CSS classes that are really useful for UI engineers",
   "main": "box-layout.css",
   "scripts": {
